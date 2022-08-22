@@ -1,0 +1,7 @@
+4
+matrix.dat
+vector.dat
+
+//1. Size N of matrix NxN
+//2. Matrix file
+//3. Vector file
